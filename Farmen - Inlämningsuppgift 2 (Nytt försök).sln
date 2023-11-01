@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmen - Inlämningsuppgift 2 (Nytt försök)", "Farmen - Inlämningsuppgift 2 (Nytt försök).csproj", "{407F5961-B44D-4359-BCA4-C18D3F6C3AA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5138D77A-0096-468C-BC88-DE053B0EF385}"
+	ProjectSection(SolutionItems) = preProject
+		Animal.cs = Animal.cs
+		AnimalManager.cs = AnimalManager.cs
+		Crop.cs = Crop.cs
+		CropManager.cs = CropManager.cs
+		Entity.cs = Entity.cs
+		Farm.cs = Farm.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407F5961-B44D-4359-BCA4-C18D3F6C3AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407F5961-B44D-4359-BCA4-C18D3F6C3AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407F5961-B44D-4359-BCA4-C18D3F6C3AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407F5961-B44D-4359-BCA4-C18D3F6C3AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB792B1-0F95-4E2F-BAE3-E69848F6D47D}
+	EndGlobalSection
+EndGlobal

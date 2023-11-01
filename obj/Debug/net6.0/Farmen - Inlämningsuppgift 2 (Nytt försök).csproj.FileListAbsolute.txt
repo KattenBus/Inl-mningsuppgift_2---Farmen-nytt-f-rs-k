@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).AssemblyInfo.cs
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\bin\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).exe
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\bin\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).deps.json
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\bin\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).runtimeconfig.json
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\bin\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).dll
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\bin\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).pdb
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).dll
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\refint\Farmen - Inlämningsuppgift 2 (Nytt försök).dll
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).pdb
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\Farmen - Inlämningsuppgift 2 (Nytt försök).genruntimeconfig.cache
+D:\Visual Studio Projects\Farmen - Inlämningsuppgift 2 (Nytt försök)\obj\Debug\net6.0\ref\Farmen - Inlämningsuppgift 2 (Nytt försök).dll

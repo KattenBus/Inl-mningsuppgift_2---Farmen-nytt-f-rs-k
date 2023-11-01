@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Farmen - Inlämningsuppgift 2 (Nytt försök)/1.0.0": {
+        "runtime": {
+          "Farmen - Inlämningsuppgift 2 (Nytt försök).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Farmen - Inlämningsuppgift 2 (Nytt försök)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
