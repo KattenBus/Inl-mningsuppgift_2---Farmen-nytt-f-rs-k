@@ -10,8 +10,9 @@ public class Entity
 		Name = name;
 	}
 
-	public void GetDescription() 
-	{ 
+	public virtual void GetDescription() 
+	{
+		Console.WriteLine($"\nID: {Id}\nName: {Name}");
 
 	}
 }

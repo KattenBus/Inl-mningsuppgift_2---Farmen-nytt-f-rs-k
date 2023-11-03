@@ -2,7 +2,7 @@
 
 public class Crop : Entity
 {
-	public string CropType { get; set; }
+    public string CropType { get; set; }
 	public int Quantity { get; set; }
 
 	public Crop(int id, string name, string cropType, int quantity) 
@@ -12,13 +12,14 @@ public class Crop : Entity
 		Quantity = quantity;
 	}
 
-	public virtual void GetDescription()
+    public override void GetDescription()
+	{	
+		base.GetDescription();
+		Console.WriteLine($"CropType: {CropType}\nQuantity: {Quantity}\n");
+    }
+	public void AddCrop(int quantityToAdd)
 	{ 
-	
-	}
-	public void AddCrop()
-	{ 
-	
+		Quantity += quantityToAdd;
 	}
 
 	public bool TakeCrop(int quantityToRemove) 
@@ -28,14 +29,16 @@ public class Crop : Entity
 
         if (Quantity > 0) 
 		{
-			Console.WriteLine($"The crop(s) were succesfuly removed");
+			Console.WriteLine($"\nThe crop(s) were succesfuly removed\n");
 
 			return true;
 		}
 		else
 		{
 	
-            Console.WriteLine($"The Crops have been deleted from the list");
+            Console.WriteLine($"\nThe Crops have been deleted from the list\n");
+
+
 
             return false;
 

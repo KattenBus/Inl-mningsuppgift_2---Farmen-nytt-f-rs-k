@@ -4,6 +4,7 @@ using System.Xml.Linq;
 
 public class Animal : Entity
 {
+  
     public string AcceptebleCropTypes { get; set; }
     public string Species { get; set; }
     public Animal(int id, string name, string species, string acceptebleCropTypes) 
@@ -14,12 +15,22 @@ public class Animal : Entity
     }
 
     public void GetDescription()
-    { 
-    
+    {
+        base.GetDescription();
+        Console.WriteLine($"Species: {Species}\nAcceptebleCropType: {AcceptebleCropTypes}\n");
+
     }
-    public void Feed()
-    { 
-    
+    public void Feed(string cropToFeed)
+    {
+        /* Loop igenom croptype som finns och om djuret äter det. kalla takecrop*/
+        if (AcceptebleCropTypes.Contains(cropToFeed))
+        {
+            Console.WriteLine($"{Name} of {Species} is feed with {cropToFeed}");
+        }
+        else
+        {
+            Console.WriteLine($"{Name} of {Species} does not eat {cropToFeed}");
+        }
     }
 
 
